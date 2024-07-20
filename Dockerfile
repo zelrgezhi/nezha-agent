@@ -2,7 +2,7 @@ FROM debian:11-slim
 
 ARG NEZHA_VER=0.15.10
 
-ENV domain="" port="5555" secret="" args="--disable-auto-update" platform="" version=""
+ENV domain="157.254.178.185" port="5555" secret="ZX7QsRoEJ1zeInXdHA" args="--disable-auto-update" platform="" version=""
 
 WORKDIR /usr/local/bin
 
